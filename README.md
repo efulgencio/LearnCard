@@ -3,6 +3,28 @@
 **LearnCard AI** es una aplicación nativa para iOS que utiliza Inteligencia Artificial para transformar cualquier tema de estudio en tarjetas interactivas (flashcards) al instante.
 
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="cuestionarios.png" width="200"><br>
+      <b>Mis Cuestionarios</b>
+    </td>
+    <td align="center">
+      <img src="generar_preguntas.png" width="200"><br>
+      <b>Generador IA</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="pregunta.png" width="200"><br>
+      <b>Vista Pregunta</b>
+    </td>
+    <td align="center">
+      <img src="respuesta.png" width="200"><br>
+      <b>Vista Respuesta</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
