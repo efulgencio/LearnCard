@@ -46,7 +46,7 @@ La aplicación sigue un patrón de diseño que separa la comunicación externa d
     ```bash
     git clone [https://github.com/tu-usuario/learncard-ai.git](https://github.com/tu-usuario/learncard-ai.git)
     ```
-3.  **Ejecutar:** Abre el archivo `.xcodeproj` y presiona `Cmd + R`. No se requieren dependencias externas de CocoaPods o SPM.
+3.  **Crea un proyecto y utiliza las clases de este repositorio. Cambia por el nombre de tu app donde está llamando a ContentView**.
 
 ---
 
