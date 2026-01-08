@@ -56,18 +56,3 @@ La aplicación incluye un control de errores avanzado para la API de Pollination
 * **Timeout extendido:** Configuración de 90 segundos para permitir que la IA procese temas complejos.
 * **JSON Strict Mode:** Forzado mediante parámetros de URL para garantizar que la decodificación sea exitosa.
 * **MainActor Threading:** Todas las actualizaciones de la interfaz tras la llamada a la IA se ejecutan en el hilo principal para evitar bloqueos.
-
----
-
-## 🤝 Contribución
-
-Si deseas mejorar los prompts de la IA o añadir efectos visuales a las tarjetas:
-1.  Haz un *Fork* del proyecto.
-2.  Crea una rama para tu mejora (`git checkout -b feature/MejoraVisual`).
-3.  Envía un *Pull Request*.
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT.
